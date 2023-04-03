@@ -8,5 +8,9 @@ Redux (For state management, you can use redux and react-redux.) - npm install r
 
 Formik and Yup (For handling forms and validation, you can use formik and yup.) - npm install formik / npm install yup
 
+Material UI (For styling your components, you can use material-ui.) - 
+- default installation - npm install @mui/material @emotion/react @emotion/styled
+- with styled-components - npm install @mui/material @mui/styled-engine-sc styled-components
+
 
 
