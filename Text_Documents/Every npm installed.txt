@@ -1,5 +1,7 @@
 Created React App - npx create-react-app my-app
 
-Installed React Router Dom - npm install react-router-dom
+React Router Dom (For client-side routing in a single-page application, you can use react-router-dom) - npm install react-router-dom
 
-Axios - npm install axios
+Axios (For making HTTP requests to a server or API, you can use axios.) - npm install axios
+
+Redux (For state management, you can use redux and react-redux.) - npm install redux , npm install react-redux
