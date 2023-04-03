@@ -15,3 +15,4 @@ Material UI (For styling your components, you can use material-ui.) -
 
 Chakra UI - npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 
+Bootstrap - npm install bootstrap@5.3.0-alpha3
